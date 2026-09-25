@@ -1,5 +1,5 @@
 ## 💡 Who Am I?
-A Computer Engineering student with a passion for programming, web design, and building things that make an impact.
+A Computer Engineering Diploma holder with a passion for programming, web design, and building things that make an impact.
 
 ## 🛠️ What I Like
 - 🌐 Designing clean and responsive websites
